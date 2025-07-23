@@ -1,0 +1,44 @@
+Executing: date && echo "Amex' motto is 'Don't live life without it!'"
+Wed Jul 23 23:02:53 IST 2025
+Amex' motto is 'Don't live life without it!'
+
+Executing: date && echo "Amex was founded in 1850."
+Wed Jul 23 23:02:53 IST 2025
+Amex was founded in 1850.
+
+Executing: date && echo "At Amex, We Do What's Right."
+Wed Jul 23 23:03:53 IST 2025
+At Amex, We Do What's Right.
+
+Executing: date && echo "Amex' motto is 'Don't live life without it!'"
+Wed Jul 23 23:03:53 IST 2025
+Amex' motto is 'Don't live life without it!'
+
+Executing: date && echo "At Amex, We Do What's Right."
+Wed Jul 23 23:04:53 IST 2025
+At Amex, We Do What's Right.
+
+Executing: date && echo "Amex' motto is 'Don't live life without it!'"
+Wed Jul 23 23:04:53 IST 2025
+Amex' motto is 'Don't live life without it!'
+
+Executing: date && echo "Amex was founded in 1850."
+Wed Jul 23 23:04:53 IST 2025
+Amex was founded in 1850.
+
+Executing: date && echo "Amex' motto is 'Don't live life without it!'"
+Wed Jul 23 23:05:53 IST 2025
+Amex' motto is 'Don't live life without it!'
+
+Executing: date && echo "Amex is headquartered in New York"
+Wed Jul 23 23:05:53 IST 2025
+Amex is headquartered in New York
+
+Executing: date && echo "Amex' motto is 'Don't live life without it!'"
+Wed Jul 23 23:06:53 IST 2025
+Amex' motto is 'Don't live life without it!'
+
+Executing: date && echo "Amex was founded in 1850."
+Wed Jul 23 23:06:53 IST 2025
+Amex was founded in 1850.
+

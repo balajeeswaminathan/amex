@@ -1,0 +1,5 @@
+03 23 23 7 2025 date && echo "At Amex, We Do What's Right."
+04 23 23 7 2025 date && echo "At Amex, We Do What's Right."
+*/1 date && echo "Amex' motto is 'Don't live life without it!'"
+*/2 date && echo "Amex was founded in 1850."
+*/5 date && echo "Amex is headquartered in New York"
